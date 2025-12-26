@@ -1,17 +1,21 @@
 ### Hi there, I'm Munna Kumar! 👋
 
-I'm a **Full Stack Developer** with expertise in **frontend, backend, and mobile application development**. Currently, I'm learning **Vite + React** to build high-performance full-stack applications. I have a strong passion for coding and enjoy problem-solving.
+
+I'm a **Full Stack Developer** specializing in **frontend, backend, and mobile application development**, with hands-on experience in building **high-performance, scalable applications** using modern technologies.
+
+I am **proficient in Vite + React** for fast and efficient web applications and have a strong academic and practical interest in **Artificial Intelligence & Computational Intelligence**, where I enjoy applying intelligent problem-solving techniques to real-world challenges.
+
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **full-stack development projects**
-- 🌱 I’m learning **Vite + React** for faster web applications
-- 💬 Ask me about **React, Node.js, Spring Boot, and more!**
-- 💡 I love **solving algorithmic problems** and participating in coding contests
-- 🎯 Looking to collaborate on **exciting projects and open-source contributions**
-- 📫 How to reach me: **[munnakushw7@gmail.com](mailto:munnakushw7@gmail.com)**
-
+- 🔭 Actively building **production-ready full-stack applications**
+- ⚡ Proficient in **Vite + React** for optimized frontend development
+- 🤖 Strong interest in **Artificial Intelligence & Computational Intelligence**
+- 💬 Ask me about **React, Node.js, Spring Boot, REST APIs, and System Design**
+- 🧠 Passionate about **DSA, algorithms, and competitive programming**
+- 🤝 Open to **full-time roles, internships, freelance work, and open-source contributions**
+- 📫 Reach me at: **[munnakushw7@gmail.com](mailto:munnakushw7@gmail.com)**
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -46,7 +50,13 @@ I'm a **Full Stack Developer** with expertise in **frontend, backend, and mobile
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+### 🔹 Artificial Intelligence (Growing Expertise)
+- 🤖 Artificial Intelligence fundamentals  
+- 🧠 Computational Intelligence concepts  
+- 📊 Algorithmic & data-driven problem solving  
+- 🐍 Python for AI & ML workflows  
 
+---
 ## 📈 GitHub Stats
 ![Munna Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunnaKumar32990&show_icons=true&theme=radical)
 
@@ -66,5 +76,8 @@ I'm a **Full Stack Developer** with expertise in **frontend, backend, and mobile
 ---
 
 ⚡ **Fun Fact:** I love exploring new technologies, and when I am not coding, I enjoy solving coding challenges and writing technical blogs!
+
+
+🚀 **Open to opportunities where I can build impactful products and grow as a software engineer.**
 
 ### Thanks for visiting! Have a great day! 😊🚀
