@@ -1,83 +1,289 @@
-### Hi there, I'm Munna Kumar! 👋
+# 👋 Hi, I'm Munna Kumar
 
+### 🚀 Backend Developer | Full Stack Developer | AI Enthusiast
 
-I'm a **Full Stack Developer** specializing in **frontend, backend, and mobile application development**, with hands-on experience in building **high-performance, scalable applications** using modern technologies.
+I’m a **Backend & Full Stack Developer** focused on building **scalable, secure, and production-ready applications**.
 
-I am **proficient in Vite + React** for fast and efficient web applications and have a strong academic and practical interest in **Artificial Intelligence & Computational Intelligence**, where I enjoy applying intelligent problem-solving techniques to real-world challenges.
+I enjoy designing **REST APIs, backend services, database-driven applications, and full-stack systems** using **Java, Spring Boot, Python, FastAPI, Node.js, React, MySQL, and MongoDB**.
 
-
----
-
-## 🚀 About Me
-- 🔭 Actively building **production-ready full-stack applications**
-- ⚡ Proficient in **Vite + React** for optimized frontend development
-- 🤖 Strong interest in **Artificial Intelligence & Computational Intelligence**
-- 💬 Ask me about **React, Node.js, Spring Boot, REST APIs, and System Design**
-- 🧠 Passionate about **DSA, algorithms, and competitive programming**
-- 🤝 Open to **full-time roles, internships, freelance work, and open-source contributions**
-- 📫 Reach me at: **[munnakushw7@gmail.com](mailto:munnakushw7@gmail.com)**
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🔹 Programming Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔹 Frontend Development:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔹 Backend Development:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🔹 Mobile App Development:
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🔹 Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔹 DevOps:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-### 🔹 Artificial Intelligence (Growing Expertise)
-- 🤖 Artificial Intelligence fundamentals  
-- 🧠 Computational Intelligence concepts  
-- 📊 Algorithmic & data-driven problem solving  
-- 🐍 Python for AI & ML workflows  
-
----
-## 📈 GitHub Stats
-![Munna Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunnaKumar32990&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunnaKumar32990&layout=compact&theme=radical)](https://github.com/MunnaKumar32990)
+Alongside software development, I’m exploring **Artificial Intelligence and Computational Intelligence**, with a focus on applying AI to solve practical real-world problems.
 
 ---
 
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MunnaKumar32990)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munna-kumar-a08756339/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kumar__munna?igsh=zjl0z2jnzwo1mhdt)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/klu2300032990)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/klu2300032990/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@munnakushw7)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Python;FastAPI+%7C+Node.js+%7C+React;AI+%26+Computational+Intelligence+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-⚡ **Fun Fact:** I love exploring new technologies, and when I am not coding, I enjoy solving coding challenges and writing technical blogs!
+## 🧑‍💻 About Me
 
+* 🔭 Building **full-stack and backend applications**
+* ⚙️ Interested in **backend architecture, REST APIs, authentication, databases, and system design**
+* ☕ Building backend services with **Java & Spring Boot**
+* 🐍 Developing APIs and AI-oriented applications using **Python & FastAPI**
+* 🌐 Building modern web applications with **React + Vite**
+* 🤖 Exploring **Artificial Intelligence & Computational Intelligence**
+* 🗄️ Working with **MySQL & MongoDB**
+* ☁️ Exploring **AWS and cloud deployment**
+* 🧩 Interested in writing **clean, maintainable, and scalable code**
+* 🤝 Open to **internships, full-time opportunities, freelance work, and open-source collaboration**
 
-🚀 **Open to opportunities where I can build impactful products and grow as a software engineer.**
+---
 
-### Thanks for visiting! Have a great day! 😊🚀
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20%7C%20FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🤖 AI & Intelligent Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20for%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computational%20Intelligence-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI%20AI%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+* 🧠 Artificial Intelligence fundamentals
+* 🤖 AI-powered application development
+* 🐍 Python-based AI workflows
+* 🔗 AI API integration
+* 📊 Data-driven problem solving
+* 🧩 Computational Intelligence concepts
+
+### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 What I Build
+
+I primarily work on applications involving:
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    SOFTWARE DEVELOPMENT                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ⚙️ Backend Services       → Java • Spring Boot • FastAPI  │
+│                                                             │
+│  🔗 REST APIs              → Authentication • CRUD • APIs  │
+│                                                             │
+│  🗄️ Database Systems       → MySQL • MongoDB               │
+│                                                             │
+│  🌐 Full Stack Applications → React • Vite • Node.js       │
+│                                                             │
+│  🤖 AI Applications         → Python • AI APIs • FastAPI   │
+│                                                             │
+│  ☁️ Cloud Applications      → AWS • Deployment             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💡 Featured Projects
+
+### 🎙️ Gram Vaani — AI Voice Assistant for Rural India
+
+An AI-powered voice assistant designed to help users interact with digital services through **voice-based communication**, with a focus on accessibility and rural use cases.
+
+**Tech:** `Python` `FastAPI` `React` `MongoDB` `Azure OpenAI` `Azure Speech`
+
+🔗 **Repository:** [AI-RURAL-VOICE-ASSISTANT](https://github.com/MunnaKumar32990/AI-RURAL-VOICE-ASSISTANT)
+
+---
+
+### 📦 Voice-Based Inventory Management
+
+A full-stack inventory management platform that explores **voice-driven interactions** for small businesses.
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+🔗 **Repository:** [Voice-Based Inventory Management](https://github.com/MunnaKumar32990/Voice-Based-Inventory-Management-for-Small-Businesses)
+
+---
+
+### 🛒 Full Stack E-Commerce Application
+
+A complete e-commerce application with user-facing shopping functionality and backend services for managing products and business operations.
+
+**Tech:** `React` `Vite` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MunnaKumar32990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunnaKumar32990&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MunnaKumar32990&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+Backend Architecture
+       │
+       ├── Java & Spring Boot
+       ├── Python & FastAPI
+       ├── REST API Design
+       ├── Authentication & Security
+       └── Database Design
+              │
+              ▼
+       Full Stack Development
+              │
+              ├── React + Vite
+              ├── Node.js
+              └── Modern Web Applications
+              │
+              ▼
+       Artificial Intelligence
+              │
+              ├── AI-powered Applications
+              ├── Python AI Workflows
+              └── Computational Intelligence
+```
+
+---
+
+## 📈 My Development Focus
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+Building reliable APIs, services, authentication systems, and database-driven applications.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Full Stack
+
+Connecting modern frontend applications with scalable backend services.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI
+
+Exploring practical AI solutions and intelligent systems using Python.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/MunnaKumar32990">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/munna-kumar-a08756339/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:munnakushw7@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/klu2300032990">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/klu2300032990/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://medium.com/@munnakushw7">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ✍️ Technical Writing
+
+I also enjoy documenting what I learn and sharing technical knowledge through development and AI-related content.
+
+📝 **Medium:** [@munnakushw7](https://medium.com/@munnakushw7)
+
+---
+
+## ⚡ Beyond Code
+
+> *"Build. Learn. Improve. Repeat."*
+
+I enjoy exploring new technologies, building practical applications, solving engineering problems, and continuously improving my development skills.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MunnaKumar32990&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <b>🚀 Building scalable software with a backend-first mindset.</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+</p>
